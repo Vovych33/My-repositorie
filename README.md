@@ -8,3 +8,4 @@
 - [BashCLI](Bash/BashCLI.md)
 - [BashScripting](Bash/Readme.md)
 - [Git](Git.md)
+- [Самостоятельная по BashScripting](Bash\BashHomeWork\Readme.md)
