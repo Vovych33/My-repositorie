@@ -5,6 +5,6 @@
 - [Основы редакитрования текста](Text.md)
 - [Markdown](Markdown.md)
 - [Mermaid](Mermaid.md)
-- [BashCLI](Linux\Bash\BashCLI.md)
-- [BashScripting](Linux\Bash\bashScripting.md)
+- [BashCLI](Bash\BashCLI.md)
+- [BashScripting](Bash\Readme.md)
 - [Git](Git.md)
